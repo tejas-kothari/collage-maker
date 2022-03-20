@@ -1,0 +1,1 @@
+python collage_maker.py -f ./image_pool -o collage.png -w 6774 -hi 4492 -i 281 -s
